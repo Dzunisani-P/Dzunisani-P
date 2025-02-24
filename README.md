@@ -1,4 +1,4 @@
-# Hi there, I'm Dzunisani! 👋
+# Hi there, I'm Dzuni! 👋
 
 ### 🔬 MSc Bioinformatics | Computational Health Informatics 
 
