@@ -16,7 +16,7 @@ I specialize in developing computational methods across **multi-OMICS applicatio
 ### 🛠️ Tech & Tools
 - **Programming**: Python, JavaScript, R, Bash, SQL
 - **Frameworks**: Django, FastAPI, Nextflow
-- **DevOps**: HPC, Slurm, Cloud Computing, Docker
+- **DevOps**: HPC, Slurm, Docker
 
 ---
 
