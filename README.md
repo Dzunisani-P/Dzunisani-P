@@ -2,7 +2,7 @@
 
 ### 🔬 MSc Bioinformatics | Computational Health Informatics 
 
-I specialize in developing computational methods across **multi-OMICS applications**, integrating **genomics, proteomics, metabolomics, and microbiomics** to uncover new biological insights and enhance our understanding of complex biological systems, particularly in health and disease research.
+I specialize in developing computational methods across **multi-OMICS applications**, interrograting **genomics, proteomics, metabolomics, and microbiomics** to uncover new insights and enhance our understanding of complex biological systems, particularly in health and disease research.
 
 ---
 
